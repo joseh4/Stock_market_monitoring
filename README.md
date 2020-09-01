@@ -27,4 +27,4 @@ Scheduling
 
 
 #### Technical Notebook
-<b>[Technical Notebook](https://github.com/joseh4/Predicting_Black_Friday_Shopping_Purcahses/blob/working/modeling_with_PCA_and_scaling.ipynb)</b>
+<b>[Technical Notebook](https://github.com/joseh4/Stock_charts/blob/master/Creating_automated_chart.ipynb)</b>
