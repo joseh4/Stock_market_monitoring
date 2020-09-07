@@ -1,6 +1,7 @@
 # Stock_charts
 
-The purpose of this project was to implement an algorithmic trading strategy in the stock market using python. The strategy hopes to  provide some help of when a good time to buy or sell may occur to make maximum profits. The strategy was not correct half of the time, but the overall use of this is applicable. When the SMA100 dips below the SMA100 and there is a sizeable difference, the prices of these stocks/options always go up. Although the strategy does not say this is a good time to buy, it should be noted.
+The purpose of this project is to implement an algorithmic trading strategy in the stock market using python. The strategy hopes to  provide some help of when a good time to buy or sell may occur to make maximum profits. The strategy was not correct half of the time, but the overall use of this is applicable. When the SMA100 dips below the SMA100 and there is a sizeable difference, the prices of these stocks/options always go up. Although the strategy does not say this is a good time to buy, it should be noted.
+
 ### Project Members
    - <b>[Joseph Hart](https://github.com/joseh4)</b>
    
